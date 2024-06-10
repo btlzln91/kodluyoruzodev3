@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #ede1e1;
+    color: #342d2d;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+h1 {
+    color: #c94c97;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+section {
+    margin-bottom: 20px;
+}
+.ingredients, .instructions {
+    list-style-type: square;
+    padding-left: 20px;
+}
